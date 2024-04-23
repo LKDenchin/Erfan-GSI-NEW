@@ -6,7 +6,7 @@ on:
       ROM_URL:
         description: 'Direct link/直链'
         required: true
-        default: 'https://jaist.dl.sourceforge.net/project/evolution-x/venus/14/evolution_venus-ota-ap1a.240405.002-04161110-OFFICIAL.zip'
+        default: 'https://dl.pixelexperience.org/ot2fUjZ5012plGbQM246U53F7IfBKtZNfV-Lt5pSp_kaWuvnFzWUoYfjd7K7Kr4X5qvPuZFhSkI3BpGqgpuKJKt6CmQnCW5S2gDsYhW1mXM=/PixelExperience_dipper-14.0-20240317-0958-OFFICIAL.zip'
       REPACK_NAME:
         description: 'Compressed name/打包名称'
         required: true
