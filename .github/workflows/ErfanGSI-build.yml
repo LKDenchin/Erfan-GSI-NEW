@@ -6,7 +6,7 @@ on:
       ROM_URL:
         description: 'Direct link/直链'
         required: true
-        default: 'https://mirrorbits.lineageos.org/full/sagit/20230302/lineage-20.0-20230302-nightly-sagit-signed.zip'
+        default: 'https://jaist.dl.sourceforge.net/project/evolution-x/venus/14/evolution_venus-ota-ap1a.240405.002-04161110-OFFICIAL.zip'
       REPACK_NAME:
         description: 'Compressed name/打包名称'
         required: true
